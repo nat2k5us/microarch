@@ -1,0 +1,4 @@
+nuget key
+oy2kjc5bvrtauvw2qsjauyh45ph3bqauxhw3heb6bfg23e
+
+dotnet nuget push AppLogger.1.0.0.nupkg -k oy2kjc5bvrtauvw2qsjauyh45ph3bqauxhw3heb6bfg23e -s https://api.nuget.org/v3/index.json
